@@ -1,0 +1,19 @@
+.EightBall-button{
+    box-shadow: 5px 5px 10px #678;
+    display:flex;
+    font-size: medium;
+    width:150px;
+    height:150px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding:10px;
+    border-radius: 50%;
+    cursor:pointer;
+}
+
+.EightBall-reset {
+    position:absolute;
+    display:flex;
+}
